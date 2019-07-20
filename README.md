@@ -1,1 +1,5 @@
 # OnlyController
+
+NodeCollectionView类是头部包含标签的collectionview(因为标签多了要充用)
+
+ContentView类是下面包含在滚动视图里面的子视图,有多少个标签旧创建多少个tableview,每种标签的单元格样式可以根据_contentType来分别对待
